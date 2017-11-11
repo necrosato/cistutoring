@@ -143,6 +143,16 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .transparent,.hover-none:hover{background-color:transparent!important}
 .hover-none:hover{box-shadow:none!important}
 /* Colors */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover{
+    opacity: 0.7;
+}
 .fa-facebook {
     background: #3B5998;
     color: white;
@@ -152,7 +162,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 	color: white;
 }
 .fa-instagram{
-	background: #958900;
+	background: #5228cf;
+	color: white;
+}
+.fa-linkedin{
+	background: #5264ad;
 	color: white;
 }
 .divider{
